@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  display: grid;
+  /** Canvas, BabylonJS Inspector */
+  grid-template-columns: 1fr auto;
+  height: 100dvh;
+  background-color: #c3c3c3;
+}
+
+#app {
+  width: 100%;
+  height: 100vh;
+  background-color: #fff;
+}
